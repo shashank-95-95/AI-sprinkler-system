@@ -2,7 +2,6 @@
 
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
-**A 5G Hackathon Project by [Your Team Name]**
 
 This project presents a "Digital Twin" of an AI-powered smart sprinkler system designed for precision agriculture, specifically tailored for the unique needs of a North East Indian tea garden. Instead of just watering on a schedule, this system uses an AI model to make intelligent, real-time decisions based on a variety of environmental factors.
 
@@ -42,8 +41,6 @@ The core of our system is a `RandomForestClassifier` model trained on a custom, 
 *   **High Performance:** The final model achieved **~99.9% accuracy** on unseen test data, with near-perfect precision and recall across all five decision states.
 
  
-*(**Action:** Replace this with a screenshot of your actual Confusion Matrix plot)*
-
 ---
 
 ## 🛠️ How to Use the Simulator
@@ -54,8 +51,6 @@ Our live web application allows you to interact with the AI model directly, with
 2.  Use the **sliders and dropdowns** on the left sidebar to simulate different sensor readings and environmental conditions.
 3.  Observe the **AI Decision Output** panel on the right, which updates in real-time to show the model's decision and a descriptive message.
 
-
-*(**Action:** Replace this with a screenshot of your Streamlit app in action)*
 
 ---
 
